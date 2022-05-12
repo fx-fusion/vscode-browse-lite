@@ -1,6 +1,6 @@
 import React from 'react'
 // @ts-ignore
-import devices from 'browser-viewport-device-descriptions'
+import devices from './browser-viewport-device-descriptions';
 import './device-settings.css'
 
 class DeviceSettings extends React.Component<any, any> {
